@@ -1,5 +1,6 @@
-# UBI Center analysis template
-Template for UBI Center analyses, including GitHub Actions to merge into [ubicenter.org](http://ubicenter.org).
+# Analysis of Zewde et al (2021) "A Guaranteed Income for the 21st Century"
+
+[Paper](https://drive.google.com/file/d/1UDFPwUYu2Rf4RGgXuOTacmBj2Gt9paAV/view)
 
 Instructions:
 * Replace `reponame` with the name of the repo in `environment.yml` and `.github/workflows/deploy_website.yml`.
