@@ -1,6 +1,4 @@
-# Analysis of Zewde et al (2021) "A Guaranteed Income for the 21st Century"
-
-[Paper](https://drive.google.com/file/d/1UDFPwUYu2Rf4RGgXuOTacmBj2Gt9paAV/view)
+# Analysis of [Zewde et al (2021) "A Guaranteed Income for the 21st Century"](https://drive.google.com/file/d/1UDFPwUYu2Rf4RGgXuOTacmBj2Gt9paAV/view)
 
 Instructions:
 * Replace `reponame` with the name of the repo in `environment.yml` and `.github/workflows/deploy_website.yml`.
